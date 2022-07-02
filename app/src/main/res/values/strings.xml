@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="turn">Turn :</string>
+    <string name="shows_turn_of_the_player">shows turn of the player</string>
+    <string name="first_box">first box</string>
+    <string name="second_box">second box</string>
+    <string name="box">BOX</string>
+    <string name="restart">restart</string>
+    <string name="game_layout">game layout</string>
+    <string name="winner">winner</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="circle_player_won">Circle player won......!</string>
+    <string name="play_again">Play again</string>
+    <string name="dots">■ ■ ■</string>
+</resources>
